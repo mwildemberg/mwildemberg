@@ -4,7 +4,7 @@
 <div align="center">
 <a href="https://github.com/mwildemberg">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mwildemberg&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwildemberg&layout=compact&langs_count=7&theme=gruvbox"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwildemberg&layout=compact&langs_count=3&theme=gruvbox"/>
 </div>
 
 <!--
